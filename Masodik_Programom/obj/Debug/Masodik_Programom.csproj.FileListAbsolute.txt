@@ -1,0 +1,7 @@
+D:\C# YouTube\Masodik_Programom\bin\Debug\Masodik_Programom.exe.config
+D:\C# YouTube\Masodik_Programom\bin\Debug\Masodik_Programom.exe
+D:\C# YouTube\Masodik_Programom\bin\Debug\Masodik_Programom.pdb
+D:\C# YouTube\Masodik_Programom\obj\Debug\Masodik_Programom.csproj.AssemblyReference.cache
+D:\C# YouTube\Masodik_Programom\obj\Debug\Masodik_Programom.csproj.CoreCompileInputs.cache
+D:\C# YouTube\Masodik_Programom\obj\Debug\Masodik_Programom.exe
+D:\C# YouTube\Masodik_Programom\obj\Debug\Masodik_Programom.pdb
