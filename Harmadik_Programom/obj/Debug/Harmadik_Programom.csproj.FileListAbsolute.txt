@@ -1,0 +1,7 @@
+D:\C# YouTube\Harmadik_Programom\bin\Debug\Harmadik_Programom.exe.config
+D:\C# YouTube\Harmadik_Programom\bin\Debug\Harmadik_Programom.exe
+D:\C# YouTube\Harmadik_Programom\bin\Debug\Harmadik_Programom.pdb
+D:\C# YouTube\Harmadik_Programom\obj\Debug\Harmadik_Programom.csproj.AssemblyReference.cache
+D:\C# YouTube\Harmadik_Programom\obj\Debug\Harmadik_Programom.csproj.CoreCompileInputs.cache
+D:\C# YouTube\Harmadik_Programom\obj\Debug\Harmadik_Programom.exe
+D:\C# YouTube\Harmadik_Programom\obj\Debug\Harmadik_Programom.pdb
