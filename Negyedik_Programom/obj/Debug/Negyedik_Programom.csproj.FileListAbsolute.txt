@@ -1,0 +1,7 @@
+D:\C# YouTube\Negyedik_Programom\bin\Debug\Negyedik_Programom.exe.config
+D:\C# YouTube\Negyedik_Programom\bin\Debug\Negyedik_Programom.exe
+D:\C# YouTube\Negyedik_Programom\bin\Debug\Negyedik_Programom.pdb
+D:\C# YouTube\Negyedik_Programom\obj\Debug\Negyedik_Programom.csproj.AssemblyReference.cache
+D:\C# YouTube\Negyedik_Programom\obj\Debug\Negyedik_Programom.csproj.CoreCompileInputs.cache
+D:\C# YouTube\Negyedik_Programom\obj\Debug\Negyedik_Programom.exe
+D:\C# YouTube\Negyedik_Programom\obj\Debug\Negyedik_Programom.pdb
