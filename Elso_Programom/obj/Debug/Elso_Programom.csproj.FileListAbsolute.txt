@@ -1,0 +1,7 @@
+D:\C# YouTube\Elso_Programom\bin\Debug\Elso_Programom.exe.config
+D:\C# YouTube\Elso_Programom\bin\Debug\Elso_Programom.exe
+D:\C# YouTube\Elso_Programom\bin\Debug\Elso_Programom.pdb
+D:\C# YouTube\Elso_Programom\obj\Debug\Elso_Programom.csproj.AssemblyReference.cache
+D:\C# YouTube\Elso_Programom\obj\Debug\Elso_Programom.csproj.CoreCompileInputs.cache
+D:\C# YouTube\Elso_Programom\obj\Debug\Elso_Programom.exe
+D:\C# YouTube\Elso_Programom\obj\Debug\Elso_Programom.pdb
