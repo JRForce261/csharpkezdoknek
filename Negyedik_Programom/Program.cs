@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -29,9 +29,13 @@ namespace Negyedik_Programom
             //Vizsgálat 3 -> Reggeli időszak (18-24)
 
             //Itt kéne majd kiegészíteni 😉
-            else
+            else if (ora<=24&&ora>18)
             {
                 Console.WriteLine("Jó éjszakát!");
+            }
+            else 
+            {
+            	Console.WriteLine("Nem jó számot adtál meg!");
             }
             Console.ReadKey();
         }
